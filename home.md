@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T09:06:46.724Z
+date: 2024-08-06T09:09:41.273Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -11,6 +11,10 @@ dateCreated: 2024-08-04T04:44:37.022Z
 # 欢迎
 
 欢迎来到开发聚集地Wiki.JS
+
+主要由[阿朱](https://github.com/azhuquq)、[蒟蒻(陈春华)](https://github.com/san12341)维护
+
+Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/azhuquq/wiki)，以防失联
 
 # 如何贡献
 

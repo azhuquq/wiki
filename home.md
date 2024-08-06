@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T10:34:51.305Z
+date: 2024-08-06T10:35:56.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -29,6 +29,8 @@ Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/
 可以在每篇文章的讨论区留言
 
 ## 微信群
+
+使用微信/企业微信扫描二维码进群
 
 ![contact_me_qr_(1).png](/contact_me_qr_(1).png)
 

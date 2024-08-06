@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T09:10:56.914Z
+date: 2024-08-06T10:34:51.305Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -26,8 +26,14 @@ Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/
 
 # 加入讨论
 
+可以在每篇文章的讨论区留言
+
+## 微信群
+
+![contact_me_qr_(1).png](/contact_me_qr_(1).png)
+
+## GitHub讨论区
+
 可以在本项目的[GitHub issues](https://github.com/azhuquq/wiki/issues)进行讨论
 
 仓库亦作该网站的备份，故请不要提出Pull Request，会被刷掉的（
-
-也可以在每篇文章的讨论区留言

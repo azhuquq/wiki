@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T09:02:02.406Z
+date: 2024-08-06T09:06:25.608Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -14,9 +14,7 @@ dateCreated: 2024-08-04T04:44:37.022Z
 
 # 如何贡献
 
-点击右上角，使用GitHub OAuth登入
-
-本登录方式仅作关联GitHub，以确认您的身份，不会读取任何您的个人项目
+点击右上角，使用GitHub OAuth登入（仅作关联GitHub确认您的身份，不会读取任何您的个人项目，您放心好了
 
 ~~（不会连GitHub账号都没有吧~~
 

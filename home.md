@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T10:57:13.796Z
+date: 2024-08-06T10:59:49.041Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -30,7 +30,8 @@ Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/
 
 可以在本项目的[GitHub issues](https://github.com/azhuquq/wiki/issues)进行讨论
 
-仓库亦作该网站的备份，故请不要提出Pull Request，会被刷掉的（
+> 仓库亦作该网站的备份，故请不要提出Pull Request，会被刷掉的（
+{.is-info}
 
 # 如何贡献
 
@@ -40,4 +41,5 @@ Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/
 
 然后可以开始撰写/编辑文章了
 
-> 注意 上传文件请传到`_assets`文件夹内，最好为每篇文章单独设立文件夹，不然不易整理 **（甚至可能会被覆盖**
+> 上传文件请传到`_assets`文件夹内，最好为每篇文章单独设立文件夹，不然不易整理 **（甚至可能会被覆盖**
+{.is-warning}

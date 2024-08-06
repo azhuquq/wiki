@@ -2,7 +2,7 @@
 title: 欢迎
 description: 
 published: true
-date: 2024-08-06T09:10:42.547Z
+date: 2024-08-06T09:10:56.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-04T04:44:37.022Z
@@ -18,7 +18,7 @@ Self-Hosted by Azhuquq，所有文章备份到[GitHub仓库](https://github.com/
 
 # 如何贡献
 
-点击右上角，使用GitHub OAuth登入~~（不会连GitHub账号都没有吧~~
+点击右上角，使用GitHub OAuth登入 ~~（不会连GitHub账号都没有吧~~
 
 仅作关联GitHub确认您的身份，不会读取任何您的个人项目，您放心好了
 
